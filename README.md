@@ -10,8 +10,3 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <br/>
 
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="2%"/> **Problem Solving**
-<br/>
-<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=alwubin)](https://solved.ac/alwubin)
