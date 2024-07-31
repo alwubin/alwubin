@@ -1,4 +1,4 @@
-<img align="center" width="854" alt="yoobinseo" src="https://github.com/user-attachments/assets/e7b0fb16-efc3-49e5-b78d-4b7c0b4b62d2">
+![header](https://capsule-render.vercel.app/api?type=waving&color=F3D5D4&height=250&section=header&text=Yoobin%20Seo&fontSize=100&fontColor=ffffff&animation=fadeIn)
 
 <h3 align="center">📝 Currently Learning</h3>
 
