@@ -1,4 +1,4 @@
-<img align="center" width="854" alt="yoobinseo" src="https://github.com/user-attachments/assets/cec44939-5d95-4aa9-8b50-4d5af005e558">
+<img align="center" width="854" alt="yoobinseo" src="https://github.com/user-attachments/assets/e7b0fb16-efc3-49e5-b78d-4b7c0b4b62d2">
 
 <h3 align="center">📝 Currently Learning</h3>
 
